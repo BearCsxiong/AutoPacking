@@ -2,11 +2,6 @@
 USERNAME="admin@biaoqing.com"
 PASSWORD="biaoqing663"
 
-#SIGN_FILE="./biaoqing.jks"
-#SIGN_PASSWORD="biaoqing663"
-#SIGN_PASSWORD_ALIAS="biaoqing663"
-#SIGN_ALIAS="bq"
-
 SIGN_FILE="./keystoreoflzx.jks"
 SIGN_PASSWORD="lzx1993"
 SIGN_PASSWORD_ALIAS="lzx1993"
